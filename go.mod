@@ -1,4 +1,4 @@
-module github.com/mholt/caddy-grpc-web
+module github.com/dmlnoris/caddy-grpc-web
 
 go 1.19
 
